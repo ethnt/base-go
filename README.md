@@ -1,6 +1,6 @@
 # base-go
 
-A starting point for Go web applications.
+A starting point for Go web applications using [web.go](http://webgo.io/tutorial.html).
 
 ## Installation
 
